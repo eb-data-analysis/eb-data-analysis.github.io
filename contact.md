@@ -2,6 +2,6 @@
 
 [Home](./)
 | [Projects](projects)
-| [Contact](contact)
+| [About Me](about)
 
 Contact me at:...
