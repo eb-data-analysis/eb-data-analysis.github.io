@@ -1,7 +1,7 @@
 # Contact
 
-[Home](./)
-| [Projects](projects)
-| [About Me](about)
+[Home](./) | [Projects](projects) | [About Me](about)
 
-Contact me at:...
+---
+
+## Contact me at:...
